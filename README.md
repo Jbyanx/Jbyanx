@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/jabes-borre-yance" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:jabesbyanc@gmail.com">
+  <a href="mailto:jabesbyanc@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -37,6 +37,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 
 **Infraestructura, DevOps & Otros:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -48,7 +50,7 @@
 
 ### 🚀 Proyectos Destacados
 
-* **Belasierra:** (Añade aquí una breve descripción de tu proyecto más reciente y qué tecnologías usaste).
+* **Belasierra:** *(Añade aquí tu descripción del proyecto. Ejemplo: Plataforma desarrollada con Spring Boot y PostgreSQL...)*
 * **Conecta Ciudad:** Plataforma de participación ciudadana desplegada en Azure. Módulo de auditoría con hashing criptográfico (SHA-256) e integración de CI/CD con GitHub Actions.
 * **ReWear:** API REST para una plataforma de economía circular, con autenticación stateless (JWT), mapeo de datos con MapStruct y migraciones con Flyway.
 * **ECO-RIDE LATAM:** Servicios desacoplados usando Spring Boot y comunicación asíncrona con RabbitMQ.
@@ -57,10 +59,14 @@
 
 ### 📊 Mis Estadísticas en GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jbyanx&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de Jabes" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jbyanx&theme=radium&hide_border=true" alt="Racha de Commits" />
-</div>
+<p align="center">
+  <a href="https://github.com/Jbyanx">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jbyanx&show_icons=true&theme=radium&hide_border=true&locale=es" alt="Estadísticas de Jabes" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jbyanx">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jbyanx&theme=radium&hide_border=true&locale=es" alt="Racha de Commits" />
+  </a>
+</p>
