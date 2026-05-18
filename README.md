@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Jabes Borre Yance 👋</h1>
+<h1 align="center">¡Hola! Soy Jabes Borré Yance 👋</h1>
 
 <h3 align="center">Desarrollador Backend Java | Estudiante de Ingeniería de Sistemas 💻</h3>
 
@@ -19,7 +19,7 @@
 
 ### 👨‍💻 Sobre mí
 
-- 🔭 Actualmente trabajando y mejorando mis habilidades en el **desarrollo backend para el sector financiero**.
+- 🔭 Actualmente abierto a **nuevas oportunidades profesionales** y mejorando mis habilidades en el **desarrollo backend**.
 - 🌱 Profundizando en **Arquitectura en capas, comunicación asíncrona y seguridad (JWT/Keycloak)**.
 - ⚙️ Herramientas de mi día a día: **Java (17/21), Spring Boot, Docker, Git y SQL**.
 - 📍 Ubicación: Santa Marta, Colombia.
@@ -50,7 +50,7 @@
 
 ### 🚀 Proyectos Destacados
 
-* **Belasierra:** *(Añade aquí tu descripción del proyecto. Ejemplo: Plataforma desarrollada con Spring Boot y PostgreSQL...)*
+* **Be La Sierra:** Sistema transaccional de reservas y motor de fidelización hotelera. Construido con arquitectura N-Capas para gestionar reglas de negocio dinámicas (acumulación y quema de puntos, generación segura de cupones). Desarrollado con **Spring Boot (Java 21)** y **PostgreSQL**. Incorpora seguridad estricta con **JWT** (inclusión de invalidación persistente de sesiones) y despliegue en la nube mediante **Azure App Service** y **Azure Database**.
 * **Conecta Ciudad:** Plataforma de participación ciudadana desplegada en Azure. Módulo de auditoría con hashing criptográfico (SHA-256) e integración de CI/CD con GitHub Actions.
 * **ReWear:** API REST para una plataforma de economía circular, con autenticación stateless (JWT), mapeo de datos con MapStruct y migraciones con Flyway.
 * **ECO-RIDE LATAM:** Servicios desacoplados usando Spring Boot y comunicación asíncrona con RabbitMQ.
