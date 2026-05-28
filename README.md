@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy Jabes Borré Yance 👋</h1>
 
-<h3 align="center">Desarrollador Backend Java | Estudiante de Ingeniería de Sistemas 💻</h3>
+<h3 align="center">Desarrollador Backend Java 💻</h3>
 
 <p align="center">
   Me enfoco en la construcción de APIs REST seguras, escalables y mantenibles. Me apasiona el ecosistema Java y siempre busco aportar soluciones limpias al desarrollo backend, integrando buenas prácticas, seguridad y despliegues eficientes en la nube.
