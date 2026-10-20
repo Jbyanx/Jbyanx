@@ -1,9 +1,9 @@
 <h1 align="center">¡Hola! Soy Jabes Borré Yance 👋</h1>
 
-<h3 align="center">Desarrollador Backend Java 💻</h3>
+<h3 align="center">Backend Java Developer (Java 21 · Spring Boot 3 · SQL) 💻</h3>
 
 <p align="center">
-  Construyo <b>APIs REST seguras y mantenibles</b> con Java y Spring Boot. Me apasiona el ecosistema Java: código limpio, seguridad y buenas prácticas de principio a fin. Con experiencia reciente en el <b>sector bancario</b> y creciendo hacia el desarrollo full-stack.
+  Construyo <b>APIs REST seguras, escalables y mantenibles</b> con Java y Spring Boot. Enfocado en arquitectura limpia, seguridad (JWT / OAuth2), integración de IA (Spring AI) y buenas prácticas de testing y despliegue. Con experiencia profesional en el <b>sector bancario/financiero</b> y disponible para <b>Prácticas Profesionales 2027-1</b>.
 </p>
 
 <p align="center">
@@ -17,31 +17,30 @@
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 Sobre mí / About Me
 
-- 🔭 Abierto a **nuevas oportunidades** — prácticas y roles junior de backend.
-- 💼 Experiencia reciente: **microservicios** en Java 21 / Spring Boot 3 para una entidad del **sector bancario** (Cibernación).
-- 🚀 Construyendo **Finsight**, un gestor de finanzas personales con IA (full-stack).
-- 🌱 Creciendo hacia **full-stack** (React + TypeScript) y fortaleciendo mi testing propio.
-- ⚙️ Día a día: **Java (17/21), Spring Boot, Docker, Git y SQL**.
-- 📍 Santa Marta, Colombia 🇨🇴 · GMT-5.
+- 🎓 **Ingeniería de Sistemas (9.º Semestre)** en la Universidad del Magdalena — **Aval y contrato de aprendizaje disponibles para Prácticas 2027-1** *(2027-1 Internship Eligible)*.
+- 💼 **Experiencia reciente:** Desarrollador Backend Java Junior (Java 21 / Spring Boot 3 / SQL) para una entidad del **sector financiero** en Cibernación.
+- 🚀 **Proyecto insignia:** **Finsight**, un gestor de finanzas personales con IA (**Spring AI · Gemini**), persistencia políglota y **217 pruebas automatizadas**.
+- 🌱 **En constante evolución:** Consolidando integraciones full-stack (React + TypeScript / soporte en Angular) e inglés conversacional (**Nivel B1 MCER**).
+- 📍 **Santa Marta / Barranquilla, Colombia 🇨🇴** · Disponibilidad Híbrida, Traslado o Remoto (GMT-5).
 
 ---
 
-### 💼 Experiencia
+### 💼 Experiencia Profesional
 
-**Cibernación** — Desarrollador Backend Java Junior · *Ene – May 2026*
-Consultora de software. Trabajé en una arquitectura de **microservicios** (Java 21, Spring Boot 3) para una entidad del **sector bancario**, colaborando con equipos de QA, diseño y producto bajo metodologías ágiles.
+**Cibernación** — Desarrollador Backend Java Junior · *Ene 2026 – May 2026*  
+Desarrollo y mantenimiento de servicios backend y APIs REST (**Java 21, Spring Boot 3, SQL**) para el **sector financiero**. Resolución de incidencias correctivas y evolutivas en backend y soporte en componentes frontend (**Angular**), análisis de logs, monitoreo en Kubernetes (Lens) y trabajo colaborativo con QA y producto bajo metodologías ágiles (**Scrum**).
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
 **Backend & Frameworks:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java_17/21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_/_OAuth2-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 **Bases de Datos & Migraciones:**
@@ -56,13 +55,14 @@ Consultora de software. Trabajé en una arquitectura de **microservicios** (Java
 **Infraestructura, DevOps & Seguridad:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**IA & Frontend _(en desarrollo)_:**
+**IA, Testing & Frontend:**
 ![Spring AI](https://img.shields.io/badge/Spring_AI_·_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit_5_·_Mockito-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -70,11 +70,11 @@ Consultora de software. Trabajé en una arquitectura de **microservicios** (Java
 
 ### 🚀 Proyectos Destacados
 
-* **Finsight** · _en desarrollo_ — Gestor de finanzas personales con IA. Monorepo full-stack: registro de gastos por **lenguaje natural** con Spring AI (Gemini) y confirmación antes de guardar, modelo de dominio que separa el dinero propio del de terceros, persistencia políglota (**PostgreSQL · MongoDB · Redis**), OAuth + JWT con refresh rotation, **217 tests** y CI en GitHub Actions.
-* **Be La Sierra** · _repo privado_ — Sistema transaccional de reservas y motor de fidelización hotelera con arquitectura en capas: reglas de negocio dinámicas (acumulación y quema de puntos, generación segura de cupones), **Spring Boot (Java 21)**, **PostgreSQL** y seguridad estricta con **JWT** e invalidación persistente de sesiones.
-* **[Conecta Ciudad](https://github.com/Jbyanx/participacion-api)** · _académico_ — Plataforma de participación ciudadana. Módulo de auditoría con hashing criptográfico (**SHA-256**), versionado de esquema con Liquibase, autenticación JWT y CI con GitHub Actions.
-* **[ReWear](https://github.com/Jbyanx/rewear)** · _académico_ — API REST para una plataforma de economía circular, con autenticación stateless (**JWT**), mapeo con MapStruct y migraciones con Flyway.
-* **[ECO-RIDE LATAM](https://github.com/Jbyanx/ECORIDE---LATAM)** · _académico_ — Servicios desacoplados con Spring Boot y comunicación asíncrona con RabbitMQ; autorización con Keycloak.
+- **Finsight** · _Monorepo IA & Finanzas_ — Gestor de finanzas personales full-stack: registro de gastos por **lenguaje natural** con Spring AI (Gemini) y confirmación previa a la persistencia, modelo de dominio que separa fondos propios y de terceros, persistencia políglota (**PostgreSQL · MongoDB · Redis**), OAuth2 + JWT con refresh token rotation, **217 pruebas automatizadas** y CI en GitHub Actions.
+- **[Conecta Ciudad](https://github.com/Jbyanx/participacion-api)** · _Cloud & Integridad Criptográfica_ — Plataforma de participación y votación desplegada en **Azure App Service**. Módulo de auditoría con hashing criptográfico (**SHA-256**) para detectar alteraciones en base de datos, migraciones con Liquibase, autenticación JWT y CI/CD con GitHub Actions.
+- **[ECO-RIDE LATAM](https://github.com/Jbyanx/ECORIDE---LATAM)** · _Arquitectura Distribuida_ — Servicios desacoplados con Java 21 y Spring Boot 3, comunicación asíncrona mediante **RabbitMQ**, seguridad perimetral con API Gateway + **Keycloak (OAuth2)**, control de concurrencia con bloqueo optimista (`@Version`) y orquestación con Docker Compose.
+- **[ReWear](https://github.com/Jbyanx/rewear)** · _API REST & Seguridad_ — Plataforma de economía circular con arquitectura multicapa, autenticación stateless (**JWT**), mapeo eficiente de DTOs con **MapStruct** y migraciones en SQL Server con **Flyway**.
+- **Be La Sierra** · _Motor Transaccional Hotelero_ — Sistema de reservas y fidelización con reglas de negocio dinámicas (acumulación/quema de puntos y cupones), **Spring Boot (Java 21)**, **PostgreSQL** y gestión segura de sesiones con **JWT**.
 
 ---
 
